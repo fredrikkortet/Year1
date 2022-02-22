@@ -1,0 +1,4 @@
+first i fixed the addtest for adding 1000 object but i hade 2000 object so i chnaged it to add one at the time.
+if we sended null they wanted to be no change. 
+second i fixed the gettest becasue they wanted a outofbounce so i change the value to be lower then 0 .
+failure 3 is only a return that will be in the for loop so its not get bigger then 1.
